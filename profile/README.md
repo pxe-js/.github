@@ -34,3 +34,5 @@ app.ls(3000);
 ### Usage
 Currently documentation is under construction.
 Please chat on [Gitter](https://gitter.im/pxe-js/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) or [Discord](https://discord.gg/BAB6wZhBFc) if you want to ask any question.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
